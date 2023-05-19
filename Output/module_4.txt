@@ -1,0 +1,185 @@
+ Reasons for studying concepts of programming languages
+O
+To improve your ability to develop effective
+algorithms.
+PRINCIPLES OF PROGRAMMING LANGUAGES
+0
+To improve the use of existing programming
+languages
+• To allow a better choice of programming language
+To make it easier to learn a new language.
+• To make it easier to design a new language
+0
+Programming Domains
+1. Scientific applications.
+2 Business applications
+.
+3. Artificial intelligence
+4. System programming.
+5. Special purpose languages
+mabaon anfer (2
+(prsiaquia) ville kogunity (6
+.
+Language Evaluation Criteria
+4 characteristics.
+1. Readability for software maintanance
+2. Writability
+3. Reliability.
+4. Cost
+by
+Readability - The ease which you can read and
+understand the program.
+a) Overall simplicity a language having less no
+of features are better than languages having
+large number of features.
+b) Feature multiplicity - Less feature multiplicity
+is the better. eg: count
+c) Operator Overloading - Reduces readability.
+c=a+b.
+= count +1, Count += 1, count++
+d) Orthogonality (simplicity)
+Loise
+IBM
+A A
+Reg
+!
+Regl, memory
+adima, bra asquefa (F
+cell
+Regi
+VAX
+AR Regl, Reg 2
+1+ content (Reg 1) + Content (memory cell)
+Ond
+ce
+Reg ₁ = content (Reg 1) + content (Reg2).
+ADDL operator 1, operator 2
+oper and 2 conterit (operator 1)+ content (operator 2).
+-
+slas gan 2017 (2
+To make the program more readable,
+Reduce the control statements
+- goto statement and target statement
+should be closer to each othere.
+goto statement should precede the target
+statement.
+e) Control Statements
+.
+umrol
+(hout)
+f) Datatypes and Structures
+Appropriate datatypes and structures should
+be there for better readability
+9) Syntax Consideration
+Syntax : The way in which the
+i) Identifier forms.
+which the program appears.
+Identifier should have enough length to
+Convey the meaning.
+eg: : stud-name for student name
+ii) Special words
+loudy
+Special words is generally not used as
+variable. It is used for a specific purpose.
+kg: In C, for is used for loop statement.
+opini) Form and Meaning
+.
+In terms of readability, one meaning for a
+form is better.
+Writability. spinos
+The ease with which we can write a program
+Factors influencing writability,
+1. Simplicity and Orthogonality..
+Language having less number of features
+are better.
+2. Support for Abstraction.
+Two types of abstraction
+These features increases writability.
+3. Expressivity.
+Process abstraction
+- Data abstraction
+How easily we can express/ write a program
+count++ is more expressive than count += 1 pr
+Reliability.
+Under all circumstances, a program should give
+expected output
+i) Type Checking
+to swalt gullion
+Checking that each operator receives
+proper number of arguments of proper data type.
+Compile time type checking Eg: C, C++, Java
+Run time type checking - Eg: Python, Ada
+2. Exception handling.
+To handle run time errors.
+Eg: Division by 0
+3. Aliasing
+Different names are given for the same memory cell.
+total
+4. Readability and Writability
+Languages having less no.
+reliable.
+Gen
+of features are more
+Cost.
+Cost involved in training programmers.
+Cost of writing the programme.
+Cost involved in competing
+let of executing the exogramme.
+was t
+competing the programme.
+Amor Cost involved due to poor reliability.
+Cast of maintaining
+Describing Syntax and Sematics.
+Syntax - The form of expressions, statements and
+program units is called syntax of a programming
+language.
+Semantics - The meaning of expressions, statements
+and program unit is called semantics of
+programming language about media
+Lexeme
+the
+the programme.
+-
+Lowest syntatic unit of a programming
+language.
+Eg: a = b + c * Q.
+that category is
+Eg: a, b, c etc
++,-, * etc
+a = b... all are lexeme
+Token - These lexemes belongs to some category,
+called token.
+belong to the token 'identifier !
+belong to the token' operator?
+Grammar - The notation used to specify the syntax
+of a programming language
+.
+A scientist named Chomsky classified
+into 4 types. They are:
+· Type 1
+Type O
+Durg.
+Type 2 Syntax of PL
+·Type 3 Regular grammar
+EURO BNF
+Context
+-
+free
+Eg:
+Eg: 2a) = b + c.
+invaliel
+grammar (ove
+a =b+*c.
+John Backus & Peter Nawns Form
+gramma
+Quantities Involved in Grammar
+pong
+prins4 quantities are involved in grammar. They are:
+i) Terminal : The basic unit of a PL.
+iii) Start Symbol: One of the non terminal is
+selected as the start symbol.
+iv) Production Rule.
+invali
+i) Non-terminal denotes set of strings (can be further
+expanded)
+YOMIMBYTU
